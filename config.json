@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsualculate",
+        "uuid": 9292996,
+        "checksum": "i7agm"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
